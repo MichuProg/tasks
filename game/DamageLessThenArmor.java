@@ -1,4 +1,4 @@
-package sda.game;
+package game;
 
 public class DamageLessThenArmor extends Exception {
     public DamageLessThenArmor() {

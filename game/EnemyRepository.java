@@ -1,4 +1,4 @@
-package sda.game;
+package game;
 
 import java.util.HashSet;
 import java.util.LinkedList;

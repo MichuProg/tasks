@@ -1,4 +1,4 @@
-package sda.game;
+package game;
 
 public class IncorrectNumber extends Exception {
     public IncorrectNumber(String message) {

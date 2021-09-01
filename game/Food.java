@@ -1,4 +1,4 @@
-package sda.game;
+package game;
 
 public class Food extends InventoryObject{
  private int healthPointsRegenration;

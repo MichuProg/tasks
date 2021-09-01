@@ -1,4 +1,4 @@
-package sda.game;
+package game;
 
 public class GameOverException extends Exception{
     public GameOverException(String message){

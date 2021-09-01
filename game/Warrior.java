@@ -1,4 +1,4 @@
-package sda.game;
+package game;
 
 public class Warrior extends Hero implements Character {
     private Weapon weapon;

@@ -1,4 +1,4 @@
-package sda.game;
+package game;
 
 public class Monster extends Enemy {
     private String shortDescription;

@@ -1,4 +1,4 @@
-package sda.game;
+package game;
 
 public class Weapon extends InventoryObject {
     private int damagePoints;

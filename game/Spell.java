@@ -1,4 +1,4 @@
-package sda.game;
+package game;
 
 public class Spell implements Comparable {
     private final String name;

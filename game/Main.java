@@ -1,4 +1,4 @@
-package sda.game;
+package game;
 
 import java.io.IOException;
 import java.util.HashMap;

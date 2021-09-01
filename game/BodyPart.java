@@ -1,4 +1,4 @@
-package sda.game;
+package game;
 
 public enum BodyPart {
     HEAD("head"),

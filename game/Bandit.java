@@ -1,4 +1,4 @@
-package sda.game;
+package game;
 
 import com.sun.jdi.InvalidTypeException;
 

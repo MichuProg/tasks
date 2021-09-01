@@ -1,4 +1,4 @@
-package sda.game;
+package game;
 
 public enum Race {
     ELF("Elf"),

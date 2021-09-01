@@ -1,4 +1,4 @@
-package sda.game;
+package game;
 
 public class ArmorPart extends InventoryObject {
     private int damageResistance;
