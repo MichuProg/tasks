@@ -1,4 +1,4 @@
-package sda.cwiczenia;
+package cwiczenia;
 
 public class LogicalOperatorsExcesise {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package sda.types;
+package types;
 
 /*
 Napisz program, który:

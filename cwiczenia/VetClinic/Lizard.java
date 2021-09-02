@@ -1,4 +1,4 @@
-package sda.cwiczenia.VetClinic;
+package cwiczenia.VetClinic;
 
 public class Lizard extends Reptile{
     private static String WEIGTH_UNIT = "G";

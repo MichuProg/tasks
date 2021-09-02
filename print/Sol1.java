@@ -1,4 +1,4 @@
-package sda.print;
+package print;
 
 /*
 Napisz program, który wyświetli cyfry od 0 do 4 w konsoli.

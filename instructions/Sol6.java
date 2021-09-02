@@ -1,4 +1,4 @@
-package sda.instructions;
+package instructions;
 
 /*
 Napisz program, który:

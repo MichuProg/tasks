@@ -1,4 +1,4 @@
-package sda.cwiczenia.VetClinic;
+package cwiczenia.VetClinic;
 
 public interface Exotic {
     boolean checkRegistration();

@@ -1,4 +1,4 @@
-package sda.string;
+package string;
 
 /*
 Napisz program, który:

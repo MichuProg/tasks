@@ -1,4 +1,4 @@
-package sda.obj;
+package obj;
 
 class Vehicle {
     protected int year;

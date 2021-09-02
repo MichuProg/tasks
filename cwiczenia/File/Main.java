@@ -1,4 +1,4 @@
-package sda.cwiczenia.File;
+package cwiczenia.File;
 
 import java.io.BufferedWriter;
 import java.io.IOException;

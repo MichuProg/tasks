@@ -1,6 +1,6 @@
-package sda.obj.cars;
+package obj.cars;
 
-import sda.obj.Car;
+import obj.Car;
 
 public class Volvo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package sda.print;
+package print;
 
 /*
 Napisz program, który wyświetli podane zdania z uwzględnieniem przerw.

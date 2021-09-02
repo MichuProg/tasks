@@ -1,4 +1,4 @@
-package sda.string;
+package string;
 
 import java.util.Scanner;
 

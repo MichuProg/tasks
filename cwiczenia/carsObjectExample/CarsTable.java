@@ -1,4 +1,4 @@
-package sda.cwiczenia.carsObjectExample;
+package cwiczenia.carsObjectExample;
 
 import java.time.LocalDate;
 import java.time.Month;

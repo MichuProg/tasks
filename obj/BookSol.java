@@ -1,4 +1,4 @@
-package sda.obj;
+package obj;
 
 /*
 Stwórz klasę o nazwie Book. Stworzona klasa ma zawierać trzy pola:

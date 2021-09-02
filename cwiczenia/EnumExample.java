@@ -1,4 +1,4 @@
-package sda.cwiczenia;
+package cwiczenia;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;

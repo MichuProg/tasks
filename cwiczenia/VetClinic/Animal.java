@@ -1,4 +1,4 @@
-package sda.cwiczenia.VetClinic;
+package cwiczenia.VetClinic;
 
 import java.time.LocalDate;
 

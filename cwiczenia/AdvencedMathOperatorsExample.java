@@ -1,4 +1,4 @@
-package sda.cwiczenia;
+package cwiczenia;
 
 public class AdvencedMathOperatorsExample {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package sda.obj;
+package obj;
 
 class Bike {
     private final String name;

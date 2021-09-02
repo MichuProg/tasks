@@ -1,4 +1,4 @@
-package sda.instructions;
+package instructions;
 
 /*
 Napisz program, który przyjmuje jako parametr rok z zakresu 1900 - 3000 a następnie sprawdza czy rok jest przestępny czy nie.

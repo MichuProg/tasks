@@ -1,4 +1,4 @@
-package sda.obj;
+package obj;
 
 // Klasa Patient bez użycia konstruktora
 class Patient {

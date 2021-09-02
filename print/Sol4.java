@@ -1,4 +1,4 @@
-package sda.print;
+package print;
 
 /*
 Napisz program, który wyświetli planszę do gry w kółko i krzyżyk.

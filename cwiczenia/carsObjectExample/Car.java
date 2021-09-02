@@ -1,4 +1,4 @@
-package sda.cwiczenia.carsObjectExample;
+package cwiczenia.carsObjectExample;
 
 import java.util.Objects;
 

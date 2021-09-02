@@ -1,4 +1,4 @@
-package sda.types;
+package types;
 
 /*
 Zadeklaruj i wyświetl w konsoli następujące zmienne z odpowiednio zadeklarowanym typem i inicjalizacją.

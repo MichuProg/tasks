@@ -1,4 +1,4 @@
-package sda.loops;
+package loops;
 /*
 Napisz program, który:
 - Pobierze od użytkownika liczbę elementów do pobrania.

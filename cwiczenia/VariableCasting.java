@@ -1,4 +1,4 @@
-package sda.cwiczenia;
+package cwiczenia;
 
 public class VariableCasting {
     public static void main(String[] arg) {

@@ -1,4 +1,4 @@
-package sda.cwiczenia.VetClinic;
+package cwiczenia.VetClinic;
 
 public class Reptile extends Animal implements Exotic {
     private static String WEIGTH_UNIT = "G";

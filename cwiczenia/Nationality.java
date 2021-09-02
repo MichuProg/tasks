@@ -1,4 +1,4 @@
-package sda.cwiczenia;
+package cwiczenia;
 
 public enum Nationality {
     PL("Polish"),

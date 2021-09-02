@@ -1,4 +1,4 @@
-package sda.cwiczenia;
+package cwiczenia;
 
 public class AutoboxingExcersiseNameAndNumber {
     public static void main(String[] args) {

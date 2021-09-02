@@ -1,4 +1,4 @@
-package sda.loops;
+package loops;
 
 /*
 Napisz program, który
